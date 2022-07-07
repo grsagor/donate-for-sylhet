@@ -20,7 +20,7 @@
 .donate-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    font-size: 30px;
+    font-size: 20px;
     padding: 15px;
     color: black;
     border-radius: 10px;
@@ -120,7 +120,7 @@ p{
 
 .submit{
     background-image: linear-gradient(orange, tomato);
-    0height: 56px;
+    height: 56px;
     width: 65px;
     margin-top: 50px;
     margin-left: 2px;
@@ -130,9 +130,10 @@ p{
 .last{
     width: 50%;
     height: 150px;
-    background-color: goldenrod;
+    background-color: rgb(255, 255, 139);
     margin-left: 25%;
     margin-right: 25%;
+    border: 5px solid yellow;
 }
 
 #submit-main{
@@ -161,4 +162,11 @@ p{
 
 h1{
     font-size: xx-large;
+}
+
+.volunteer{
+    width: 500px;
+    border: 5px solid rgb(233, 210, 117);
+    padding: 5px;
+    margin: 20px;
 }
