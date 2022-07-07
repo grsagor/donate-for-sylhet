@@ -1,0 +1,164 @@
+.text-center{
+    text-align: center;
+}
+
+.margin-top-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
+    height: 300px;
+    width: 100%;
+}
+
+#bg-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.500), rgba(255, 255, 255, 0.13)), url(donate-today-main/images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+}
+
+.donate-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    font-size: 30px;
+    padding: 15px;
+    color: black;
+    border-radius: 10px;
+}
+
+#body-style{
+    margin: 0px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.taka{
+    color: rgba(0, 0, 0, 0.685);
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.185);
+    height: 100px;
+    width: 140px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#different{
+    color: orangered;
+    border: 5px solid orangered;
+    background-color: rgba(255, 68, 0, 0.178);
+}
+
+p{
+    color: rgba(0, 0, 0, 0.562);
+    font-size: 20px;
+    text-align: center;
+}
+
+.food{
+    padding: 10px;
+    background-color: rgba(186, 228, 186, 0.329);
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.shelter{
+    padding: 10px;
+    background-color: rgba(198, 226, 119, 0.185);
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.education{
+    padding: 10px;
+    background-color: rgba(235, 39, 225, 0.185);
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.left-align{
+    text-align: left;
+}
+
+.half-width{
+    margin: 30px;
+    width: 400px;
+}
+
+.img-resize{
+    height: 500px;
+    width: 500px;
+}
+
+.mail{
+    width: 50%;
+    height: 150px;
+    background-color: rgba(255, 255, 0, 0.500);
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+#email{
+
+    margin-top: 50px;
+    height: 20px;
+    width: 90%;
+    text-align: right;
+}
+
+.submit{
+    background-image: linear-gradient(orange, tomato);
+    0height: 56px;
+    width: 65px;
+    margin-top: 50px;
+    margin-left: 2px;
+    text-align: left;
+}
+
+.last{
+    width: 50%;
+    height: 150px;
+    background-color: goldenrod;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#submit-main{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    
+}
+
+#footer{
+    background-color: black;
+    height: 150px;
+    padding-top: 55px ;
+
+}
+
+#email-main{
+    background-color: gray;
+    height: 50px;
+    width: 300px;
+}
+
+::-webkit-input-placeholder{
+    color: black;
+}
+
+h1{
+    font-size: xx-large;
+}
