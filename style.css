@@ -11,7 +11,7 @@
 }
 
 #bg-image{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.500), rgba(255, 255, 255, 0.13)), url(donate-today-main/images/donation0.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.800), rgba(255, 255, 255, 0.01)), url(donate-today-main/images/donation0.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     color: black;
